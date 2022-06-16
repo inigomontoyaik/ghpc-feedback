@@ -1,7 +1,7 @@
 ---
-name: Bug report
-about: Let us know of any issues you've experienced playing the game.
-title: ''
+name: inigomontoyaik
+about: 
+title: Ammo drawn over gun sight in x-ray mode
 labels: Bug
 assignees: ''
 
@@ -9,23 +9,22 @@ assignees: ''
 
 **Describe the bug**
 
-A clear and concise description of what the bug is.
-
+When activating X-ray and opening the gun sight, ammo is visible over the gun sight.
 **To Reproduce**
 
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+1. Press O to activate X-ray view
+2. Press shift to open gun sight
+3. Ammo is visible over the gun sight
 
 **Expected Behavior**
 
-A clear and concise description of what you expected to happen.
+Ammo should be behind the gun sight or not visible at all
 
 **Screenshots**
 
-If applicable, add screenshots to help explain your problem.
+![2022-06-16_22h25_45](https://user-images.githubusercontent.com/107646523/174149269-f46fd42a-7974-42d4-bea9-ee3002962839.png)
+
 
 **Sources**
 
@@ -34,9 +33,5 @@ Common concerns like "This doesn't feel right" or "_Other Game_ does it this way
 
 **Desktop (Please complete the following information):**
 
- - OS: [e.g. Windows 10]
- - Game Version [e.g. 20210506.1]
-
-**Additional context**
-
-Add any other context about the problem here.
+ - OS: windows 11
+ - Game Version: GHPC Demo 20220613
